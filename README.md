@@ -18,13 +18,13 @@ And on GitHub trending!
 
 ## 👨‍🏫 Demo
 
-1. [greggzigler.github.io/1](https://greggzigler.github.io/1) should link to this repo.
+1. [greggzigler.github.io/gh-pages-url-shortener/1](https://greggzigler.github.io/gh-pages-url-shortener/1) should link to this repo.
 
 1. To add a new short link, add an issue with the title being the link you want
    to shorten (including the `http(s)://`) to
    [https://github.com/greggzigler/gh-pages-url-shortener-db/issues](https://github.com/greggzigler/gh-pages-url-shortener-db/issues).
 
-1. The newly created short url can be accessed via `greggzigler.github.io/{issue_number}`
+1. The newly created short url can be accessed via `greggzigler.github.io/gh-pages-url-shortener-db/{issue_number}`
 
 ## ☕️ Features
 
@@ -33,7 +33,7 @@ And on GitHub trending!
    pages.
 
 1. There is no need for the pound symbol - short URLs look clean like this:
-   `greggzigler.github.io/1` instead of looking like this: `greggzigler.github.io/#1`.
+   `greggzigler.github.io/gh-pages-url-shortener-db/1` instead of looking like this: `greggzigler.github.io/gh-pages-url-shortener-db/#1`.
 
 ## 💡 How does this work?
 
