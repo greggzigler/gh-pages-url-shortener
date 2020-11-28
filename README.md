@@ -1,6 +1,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![Total Lines](https://img.shields.io/tokei/lines/github/nelsontky/gh-pages-url-shortener?color=green)
-![GitHub stars](https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social)
+![Total Lines](https://img.shields.io/tokei/lines/github/greggzigler/gh-pages-url-shortener?color=green)
+![GitHub stars](https://img.shields.io/github/stars/greggzigler/gh-pages-url-shortener?style=social)
 
 # 🔗 GitHub Pages URL Shortener
 
@@ -18,13 +18,13 @@ And on GitHub trending!
 
 ## 👨‍🏫 Demo
 
-1. [nlsn.cf/1](https://nlsn.cf/1) should link to this repo.
+1. [greggzigler.github.io/1](https://greggzigler.github.io/1) should link to this repo.
 
 1. To add a new short link, add an issue with the title being the link you want
    to shorten (including the `http(s)://`) to
-   [https://github.com/nelsontky/gh-pages-url-shortener-db/issues](https://github.com/nelsontky/gh-pages-url-shortener-db/issues).
+   [https://github.com/greggzigler/gh-pages-url-shortener-db/issues](https://github.com/greggzigler/gh-pages-url-shortener-db/issues).
 
-1. The newly created short url can be accessed via `nlsn.cf/{issue_number}`
+1. The newly created short url can be accessed via `greggzigler.github.io/{issue_number}`
 
 ## ☕️ Features
 
@@ -33,7 +33,7 @@ And on GitHub trending!
    pages.
 
 1. There is no need for the pound symbol - short URLs look clean like this:
-   `nlsn.cf/1` instead of looking like this: `nlsn.cf/#1`.
+   `greggzigler.github.io/1` instead of looking like this: `greggzigler.github.io/#1`.
 
 ## 💡 How does this work?
 
